@@ -2,6 +2,8 @@
 
 [DEMO version](https://slasherio.github.io/ElifTech-Test/)
 
+:exclamation::exclamation: Recommended to use latest version of **Google Chrome** :exclamation::exclamation:
+
 ## Task: 
 
 * Receive a set of expressions from specified endpoint via REST call

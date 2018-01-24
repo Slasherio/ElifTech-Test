@@ -1,0 +1,12 @@
+{
+  "name": "eliftech",
+  "version": "1.0.0",
+  "description": "Elif Tech test for school 2018",
+  "main": "app.js",
+  "author": "Oleksandr Myshchyshyn",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
